@@ -1,4 +1,6 @@
-Travel Management System is a comprehensive web platform designed to simplify trip planning and booking. Built with a focus on user experience, it allows travelers to explore destinations, manage itineraries, and handle bookings all in one place.
+**Travel Management System**
+
+**Travel Management System** is a comprehensive web platform designed to simplify trip planning and booking. Built with a focus on user experience, it allows travelers to explore destinations, manage itineraries, and handle bookings all in one place.
 
 🌟 Key Features
 Destination Discovery: Browse popular travel spots with detailed descriptions and high-quality imagery.
