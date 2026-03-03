@@ -13,7 +13,7 @@ Admin Dashboard: Powerful backend for administrators to add new destinations, ma
 
 💻 Technology
 
-Frontend: HTML5, CSS3, JavaScript, and Bootstrap
+Frontend: HTML5, CSS3, JavaScript, and Tailwind CSS
 
 Tools: XAMPP / VS Code
 
