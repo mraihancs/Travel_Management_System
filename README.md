@@ -11,10 +11,7 @@ Dynamic Search & Filter: Quickly find trips based on budget, duration, and speci
 
 Admin Dashboard: Powerful backend for administrators to add new destinations, manage bookings, and update pricing.
 
-💻 Technology Stack
-Backend: PHP
-
-Database: MySQL
+💻 Technology
 
 Frontend: HTML5, CSS3, JavaScript, and Bootstrap
 
